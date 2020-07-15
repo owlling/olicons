@@ -1,0 +1,44 @@
+http://olicons.yemaosheji.com
+
+olicons v1.0.1
+
+
+olicons
+olicons is a completely open-source icon set with crafted for designer and coder. You may use for any purpose, whether personal or commercial. Icons in olicons for immediate implementation to your apps or websites. The olicons will keep updating!
+
+olicons
+olicons是一款完全开源的图标集，专为设计人员和编码人员设计。您可以将其用于任何目的，无论是个人用途还是商业用途。 olicon中的图标，可立即用于您的应用或网站。olicons将会不断更新！
+
+
+Usage
+http://olicons.yemaosheji.com/usage
+
+使用文档
+http://olicons.yemaosheji.com/usage
+
+
+Open source agreement
+The olicons font follows SIL OFL 1.1 agreement.
+The css files in olicons follow the MIT agreement.
+
+开源协议
+olicons字体遵循SIL OFL 1.1协议。
+olicons中的css文件遵循MIT协议。
+
+
+Design
+The olicons is drawn using Sketch App vector design software.
+The olicons uses IcoMoon App to build font files and css files.
+
+设计
+使用Sketch App矢量设计软件绘制olicons。
+olicon使用IcoMoon App构建字体文件和CSS文件。
+
+
+Contact me
+You can contact me if you have any questions
+
+联系我
+有任何问题你都可以联系我。
+
+
