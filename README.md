@@ -1,4 +1,4 @@
-# olicons
+# [olicons](http://olicons.yemaosheji.com) 
 
 **olicons is a completely open-source icon set with crafted for designer and coder. You may use for any purpose, whether personal or commercial. Icons in olicons for immediate implementation to your apps or websites. The olicons will keep updating!**
 
@@ -27,7 +27,7 @@
 
 **Click the card on the [olicons](http://olicons.yemaosheji.com) to copy the icon name.**
 
-**点击 [olicons](http://olicons.yemaosheji.com)站点上的卡片复制图标名称。**
+**点击 [olicons](http://olicons.yemaosheji.com) 站点上的卡片复制图标名称。**
 
 #### Local use
 
@@ -73,8 +73,10 @@
 
 ##### v1.0.1 2020.07.15
 
+![blockchain](https://github.com/owlling/olicons/blob/master/preview/v1.0.1.jpg "v1.0.1")
 
 
 
-# updating...
+
+### updating...
 
