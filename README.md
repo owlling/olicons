@@ -20,56 +20,61 @@
 `<linkrel="stylesheet" href = "http://olicons.yemaosheji.com/css/olicons.css">`
 
 
-2. Add the class attribute corresponding to the “<i>” tag where you need to use the icon.
+2. Add the class attribute corresponding to the “ i ” tag where you need to use the icon.
 
 `<iclass="ol-heart-o"><i>`
 
 
-Click the card on the [olicons](http://olicons.yemaosheji.com) to copy the icon name.
+**Click the card on the [olicons](http://olicons.yemaosheji.com) to copy the icon name.**
 
-点击 [olicons](http://olicons.yemaosheji.com)站点上的卡片复制图标名称。
+**点击 [olicons](http://olicons.yemaosheji.com)站点上的卡片复制图标名称。**
 
 #### Local use
 
-Download and save the font folder and css file to your project. Just quote in the same way as above.
+**Download and save the font folder and css file to your project. Just quote in the same way as above.**
 
-下载并保存字体文件夹和css文件到您的项目中，按以上方式引用即可。
+**下载并保存字体文件夹和css文件到您的项目中，按以上方式引用即可。**
 
 `<linkrel="stylesheet" href = "local-path/olicons.css">`
 
 
 ### SVGs
 
-You can directly download the svg resource pack to the local for secondary creation or use directly.
+**You can directly download the svg resource pack to the local for secondary creation or use directly.**
 
-您可以直接将svg资源包下载到本地进行二次修改或直接使用。
+**您可以直接将svg资源包下载到本地进行二次修改或直接使用。**
 
 `<img src="local-path/olicons.svg"/>`
 
 
 # Open source agreement
 
-The olicons font follows SIL OFL 1.1 agreement.
+**The olicons font follows SIL OFL 1.1 agreement.**
 
-The css files in olicons follow the MIT agreement.
+**The css files in olicons follow the MIT agreement.**
 
-olicon字体遵循SIL OFL 1.1协议。
+**olicon字体遵循SIL OFL 1.1协议。**
 
-olicons中的css文件遵循MIT协议。
+**olicons中的css文件遵循MIT协议。**
 
 
 # Design
 
-The olicons is drawn using Sketch App vector design software.
+**The olicons is drawn using Sketch App vector design software.**
 
-The olicons uses IcoMoon App to build font files and css files.
+**The olicons uses IcoMoon App to build font files and css files.**
 
-olicons是用Sketch App矢量设计软件绘制的。
+**olicons是用Sketch App矢量设计软件绘制的。**
 
-olicon使用IcoMoon应用程序构建字体文件和css文件。
+**olicon使用IcoMoon应用程序构建字体文件和css文件。**
 
 
 # Update log
 
-##### v1.0.1
+##### v1.0.1 2020.07.15
+
+
+
+
+# updating...
 
