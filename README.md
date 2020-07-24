@@ -73,15 +73,10 @@
 
 ##### v1.0.1 2020.07.24
 
-### Add ：
-
-![blockchain](https://github.com/owlling/olicons/blob/master/preview/v1.0.2.jpg "v1.0.2")
+## Add 48 icons
 
 
 ##### v1.0.1 2020.07.15
-
-![blockchain](https://github.com/owlling/olicons/blob/master/preview/v1.0.1.jpg "v1.0.1")
-
 
 
 
