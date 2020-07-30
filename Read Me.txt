@@ -1,6 +1,6 @@
 http://olicons.yemaosheji.com
 
-olicons v1.0.1
+olicons css及字体文件为最新版本
 
 
 olicons
