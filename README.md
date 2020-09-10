@@ -33,15 +33,19 @@
 ![alt web](https://github.com/owlling/olicons-site/blob/master/images/web.jpg?raw=true)
 
 
+-
 
 
-#### Local use
+### Local use
 
 **Download and save the font folder and css file to your project. Just quote in the same way as above.**
 
 **下载并保存字体文件夹和css文件到您的项目中，按以上方式引用即可。**
 
 `<link rel="stylesheet" href = "local-path/olicons.css">`
+
+
+-
 
 
 ### SVGs
@@ -53,7 +57,7 @@
 `<img src="local-path/olicons.svg"/>`
 
 
-# Open source agreement
+## Open source agreement
 
 **The olicons font follows SIL OFL 1.1 agreement.**
 
@@ -64,7 +68,7 @@
 **olicons中的css文件遵循MIT协议。**
 
 
-# Design
+## Design
 
 **The olicons is drawn using Sketch App vector design software.**
 
@@ -79,25 +83,25 @@
 
 ##### v2.0.1 2020.09.07
 
-# 678 icons
+### 678 icons
 
 -
 
 ##### v1.0.3 2020.07.28
 
-# 394 icons
+### 394 icons
 
 -
 
 ##### v1.0.2 2020.07.24
 
-# 266 icons
+### 266 icons
 
 -
 
 ##### v1.0.1 2020.07.15
 
-# 218 icons
+### 218 icons
 
 -
 
