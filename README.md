@@ -17,12 +17,12 @@
 
 1. Add the following to the <head> tag.
   
-`<linkrel="stylesheet" href = "http://olicons.yemaosheji.com/css/olicons.css">`
+`<link rel="stylesheet" href = "http://olicons.yemaosheji.com/css/olicons.css">`
 
 
 2. Add the class attribute corresponding to the “ i ” tag where you need to use the icon.
 
-`<iclass="ol-heart-o"><i>`
+`<i class="ol-heart-o"><i>`
 
 
 **Click the card on the [olicons](http://olicons.yemaosheji.com) to copy the icon name.**
@@ -35,7 +35,7 @@
 
 **下载并保存字体文件夹和css文件到您的项目中，按以上方式引用即可。**
 
-`<linkrel="stylesheet" href = "local-path/olicons.css">`
+`<link rel="stylesheet" href = "local-path/olicons.css">`
 
 
 ### SVGs
