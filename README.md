@@ -20,11 +20,15 @@ You don't need to download any resources. Just remotely link to the olicons font
 >不需要下载任何资源,只需远程链接到olicons字体即可。
 
 1、 Add the following to the <head> tag.
+>将以下内容添加到<head>中。
   
 `<link rel="stylesheet" href = "http://olicons.yemaosheji.com/css/olicons.css">`
 
 
 2、Add the class attribute corresponding to the “ i ” tag where you need to use the icon.
+>在需要使用图标的位置添加“i”标签的class对应图标名称。
+
+>图标共有四种主题风格，只需要使用不同的后缀即可：
 
 |  Theme   | Code reference  |  Preview  |
 |  :----:  | :----:  | :----:  |
