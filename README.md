@@ -7,11 +7,14 @@ olicons is a completely open-source icon set with crafted for designer and coder
 >olicons是一款完全开源的图标集，专为设计人员和编码人员设计。您可以将其用于任何目的，无论是个人用途还是商业用途。 olicon中的图标，可立即用于您的应用或网站。olicons将会不断更新！
 
 
-## Usage
+-
 
-### Font icons
 
-#### Remote use
+### Usage
+
+#### Font icons
+
+##### Remote use
 
 You don't need to download any resources. Just remotely link to the olicons fonts.
 
@@ -24,7 +27,14 @@ You don't need to download any resources. Just remotely link to the olicons font
 
 2、Add the class attribute corresponding to the “ i ” tag where you need to use the icon.
 
-`<i class="ol-heart-o"><i>`
+
+
+|  Theme   | Code reference  |  Preview  |
+|  ----  | ----  | ----  |
+|  Outline | `<i class="ol-tju-o"><i>` | ![alt ol-tju-o](http://olicons.yemaosheji.com/images/icons/res/outline/ol-tju-o.svg) |
+| Filled | `<i class="ol-tju-f"><i>` | ![alt ol-tju-f](http://olicons.yemaosheji.com/images/icons/res/filled/ol-tju-f.svg)  |
+| Sharp Outline | `<i class="ol-tju-so"><i>` | ![alt ol-tju-so](http://olicons.yemaosheji.com/images/icons/res/sharp-o/ol-tju-so.svg)  |
+| Sharp Filled | `<i class="ol-tju-sf"><i>` | ![alt ol-tju-sf](http://olicons.yemaosheji.com/images/icons/res/sharp-f/ol-tju-sf.svg)  |
 
 
 Click the card on the [olicons](http://olicons.yemaosheji.com) to copy the icon name.
@@ -35,10 +45,8 @@ Click the card on the [olicons](http://olicons.yemaosheji.com) to copy the icon 
 ![alt web](https://github.com/owlling/olicons-site/blob/master/images/link/web.jpg?raw=true)
 
 
--
 
-
-### Local use
+#### Local use
 
 Download and save the font folder and css file to your project. Just quote in the same way as above.
 
@@ -47,10 +55,7 @@ Download and save the font folder and css file to your project. Just quote in th
 `<link rel="stylesheet" href = "local-path/olicons.css">`
 
 
--
-
-
-### SVGs
+#### SVGs
 
 You can directly download the svg resource pack to the local for secondary creation or use directly.
 
@@ -59,7 +64,10 @@ You can directly download the svg resource pack to the local for secondary creat
 `<img src="local-path/olicons.svg"/>`
 
 
-## Open source agreement
+-
+
+
+### Open source agreement
 
 The olicons font follows SIL OFL 1.1 agreement.
 
@@ -70,7 +78,10 @@ The css files in olicons follow the MIT agreement.
 >olicons中的css文件遵循MIT协议。
 
 
-## Design
+-
+
+
+### Design
 
 The olicons is drawn using Sketch App vector design software.
 
@@ -81,9 +92,12 @@ The olicons uses IcoMoon App to build font files and css files.
 >olicon使用IcoMoon应用程序构建字体文件和css文件。
 
 
+-
+
+
 ### Update log
 
-|  版本   | 日期  |  当前图标数量  |
+|  Version   | Date  |  Total  |
 |  ----  | ----  | ----  |
 | v2.0.1  | 2020.09.07 | 678 |
 | v1.0.3  | 2020.07.28 | 394 |
