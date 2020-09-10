@@ -29,6 +29,9 @@
 
 **点击 [olicons](http://olicons.yemaosheji.com) 站点上的卡片复制图标名称。**
 
+
+![alt web](https://github.com/owlling/olicons-site/blob/master/images/web.jpg?raw=true)
+
 #### Local use
 
 **Download and save the font folder and css file to your project. Just quote in the same way as above.**
