@@ -103,3 +103,4 @@ The olicons uses IcoMoon App to build font files and css files.
 | v1.0.1  | 2020.07.15 | 218 |
 
 
+
