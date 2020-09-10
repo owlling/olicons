@@ -103,7 +103,10 @@ The olicons uses IcoMoon App to build font files and css files.
 | v1.0.1  | 2020.07.15 | 218 |
 
 
->If you don’t find what you need, you can leave a message in the comment area, or add the author’s WeChat directly.
+***
+
+
+If you don’t find what you need, you can leave a message in the comment area, or add the author’s WeChat directly.
 >如果没找到你需要的，可在[评论区留言](https://github.com/owlling/olicons/issues) ，或者直接[加作者微信](https://www.owlling.com/befriend)。
 >>![alt Wechat](https://www.owlling.com/images/befriend/wechat.svg)
 
